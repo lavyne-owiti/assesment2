@@ -11,7 +11,7 @@ var bank=CurrentAccount("Lavyne Owiti",2333556677,800088.25)
     var sample3=Product("apple",12.5,50.25,"friut")
     var allsample= listOf(sample,sample1,sample2,sample3)
   // var samples=allsample.filter { product -> product.category:String }
-  // println(samples)
+  println(allsample)
     evenStrings("bananas")
 
 
